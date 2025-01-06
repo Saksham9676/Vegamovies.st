@@ -67,23 +67,3 @@
     
     <main>
         <section id="home">
-            <h2>Welcome!</h2>
-            <p>Hello, I'm MOVIEMAZA. This is my personal website where you can learn more about me and my work.</p>
-        </section>
-
-        <section id="about">
-            <h2>About Me</h2>
-            <p>I am a passionate developer with an interest in web development, AI, and technology. I love to build websites and create innovative solutions to solve real-world problems.</p>
-        </section>
-
-        <section id="contact">
-            <h2>Contact Me</h2>
-            <p>If you'd like to get in touch, feel free to email me at: <a href="mailto:pandeysaksham876@gmail.com">pandeysaksham876@gmail.com</a></p>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 MOVIEMAZA. All Rights Reserved.</p>
-    </footer>
-</body>
-</html>
